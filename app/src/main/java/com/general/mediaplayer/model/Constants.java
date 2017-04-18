@@ -11,6 +11,7 @@ public class Constants {
     //public static final String SD_PATH = "/mnt/extSdCard/gemonogram/";
     //public static final String SD_PATH = "/mnt/external_sd/gemonogram/";
     public static final String SD_PATH = "/storage/UsbDriveA/gemonogram/";
+    //public static final String SD_PATH = "/mnt/usb_storage/gemonogram/";
 
     // unused API
     public static final String catalogue = "catalogue";
